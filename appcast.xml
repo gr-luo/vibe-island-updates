@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Vibe Island Updates</title>
+        <link>https://gr-luo.github.io/vibe-island-updates/appcast.xml</link>
+        <description>Vibe Island - macOS Notch panel for Claude Code</description>
+        <language>en</language>
+
+        <item>
+            <title>Version 0.5.0</title>
+            <pubDate>Tue, 20 Jan 2026 23:00:00 +0800</pubDate>
+            <sparkle:version>0.5.0</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Beta Release</h2>
+                <ul>
+                    <li>Notch panel for Claude Code status</li>
+                    <li>Permission approval via GUI</li>
+                    <li>AskUserQuestion direct answer</li>
+                    <li>iTerm2 precise jump (including tmux -CC)</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/gr-luo/vibe-island-updates/releases/download/v0.5.0/vibe-island-0.5.0.zip"
+                sparkle:edSignature="OnlY4au6h1W2pWKUMQGyBJnrzHRcnYm3xdPtPO6zqLuxYU/tEX2Hnw2+Q89idNPauH6CEH28WWLoFxNULfaoCg=="
+                length="3011998"
+                type="application/octet-stream"
+            />
+        </item>
+    </channel>
+</rss>
