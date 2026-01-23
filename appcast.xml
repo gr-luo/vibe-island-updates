@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.5.3</title>
+            <pubDate>Fri, 23 Jan 2026 15:42:00 +0800</pubDate>
+            <sparkle:version>0.5.3</sparkle:version>
+            <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>新功能</h2>
+                <ul>
+                    <li>工具描述增强：WebFetch 显示 URL、WebSearch 显示搜索词</li>
+                    <li>Skill 工具显示描述</li>
+                    <li>文件路径简化为相对路径（如 Sources/Core/SessionState.swift）</li>
+                </ul>
+                <h2>修复</h2>
+                <ul>
+                    <li>优化权限审批后的状态更新</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/gr-luo/vibe-island-updates/releases/download/v0.5.3/vibe-island-0.5.3.dmg"
+                sparkle:edSignature="ELVDBLOzwQGtgzFu800pMmPkJqae4pyWOPBU99E4V/j8/di/k/ZbTxGLM9Tx3QaeL/L+hTcfIUt4Sh1wirt7BA=="
+                length="1655465"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.5.2</title>
             <pubDate>Wed, 22 Jan 2026 19:56:00 +0800</pubDate>
             <sparkle:version>0.5.2</sparkle:version>
