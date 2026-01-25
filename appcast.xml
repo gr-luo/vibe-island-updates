@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.5.5</title>
+            <pubDate>Sat, 25 Jan 2026 13:15:00 +0800</pubDate>
+            <sparkle:version>0.5.5</sparkle:version>
+            <sparkle:shortVersionString>0.5.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>重要修复</h2>
+                <ul>
+                    <li>修复 macOS 14/15 无法运行的问题（Universal Binary 支持）</li>
+                    <li>同时支持 Apple Silicon 和 Intel Mac</li>
+                </ul>
+                <h2>新功能</h2>
+                <ul>
+                    <li>键盘快捷键：Ctrl+1/2/3 快速审批，不再抢占焦点</li>
+                    <li>Task 列表改进：按状态分组显示，活跃任务优先</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/gr-luo/vibe-island-updates/releases/download/v0.5.5/vibe-island-0.5.5.dmg"
+                sparkle:edSignature="qVQeLJW7svG2jt9aCabTQWUetfhFaOzInc31s+sFrQOFB9qv3VD4Ak9C7Je6GiNFrbLCwKzgJSqnUfZWDisbAA=="
+                length="2192955"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.5.4</title>
             <pubDate>Fri, 23 Jan 2026 18:43:20 +0800</pubDate>
             <sparkle:version>0.5.4</sparkle:version>
