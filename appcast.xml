@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.5.8</title>
+            <pubDate>Sat, 25 Jan 2026 18:21:00 +0800</pubDate>
+            <sparkle:version>0.5.8</sparkle:version>
+            <sparkle:shortVersionString>0.5.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>修复</h2>
+                <ul>
+                    <li>修复应用卡顿问题（Pipe 缓冲区死锁）</li>
+                    <li>修复切换屏幕后 socket 无响应的问题</li>
+                </ul>
+                <h2>改进</h2>
+                <ul>
+                    <li>添加 single-flight 机制防止清理任务堆积</li>
+                    <li>外部进程调用改为异步，避免阻塞主线程</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/gr-luo/vibe-island-updates/releases/download/v0.5.8/vibe-island-0.5.8.dmg"
+                sparkle:edSignature="e+nHUatV4tvITQopSdapxZIQcKetPxXYQeCyvbrlXrWy31OXYzbY5rsmwG4FaXspYGqDfgHqZpa/TwJGsg+6CQ=="
+                length="2220674"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.5.7</title>
             <pubDate>Sun, 25 Jan 2026 14:51:58 +0800</pubDate>
             <sparkle:version>0.5.7</sparkle:version>
