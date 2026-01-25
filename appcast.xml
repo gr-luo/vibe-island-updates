@@ -7,6 +7,36 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.5.9</title>
+            <pubDate>Mon, 26 Jan 2026 04:25:08 +0800</pubDate>
+            <sparkle:version>0.5.9</sparkle:version>
+            <sparkle:shortVersionString>0.5.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>New Features</h2>
+                <ul>
+                    <li>Notch left-side info display: Shows current tool/task status when collapsed</li>
+                    <li>MCP/Skill tool type indicators: MCP tools show as "MCP: tool_name", Skills as "/skill_name"</li>
+                    <li>Configurable shortcut modifier keys</li>
+                </ul>
+                <h2>Improvements</h2>
+                <ul>
+                    <li>UI localized to English for cleaner, more professional appearance</li>
+                </ul>
+                <h2>Fixes</h2>
+                <ul>
+                    <li>Fixed collapsed state click area not matching visual shape</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/gr-luo/vibe-island-updates/releases/download/v0.5.9/vibe-island-0.5.9.dmg"
+                sparkle:edSignature="qloWcuWMONBZq0oDa9IDlx5xFde6ftAh/BESXqXgSoWO91fQ+5Fg5mqnpmBvLljvigMEL27aAgm5HuLqHsF4DQ=="
+                length="2251312"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.5.8</title>
             <pubDate>Sat, 25 Jan 2026 18:21:00 +0800</pubDate>
             <sparkle:version>0.5.8</sparkle:version>
