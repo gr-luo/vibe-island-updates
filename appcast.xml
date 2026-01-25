@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.5.7</title>
+            <pubDate>Sun, 25 Jan 2026 14:51:58 +0800</pubDate>
+            <sparkle:version>0.5.7</sparkle:version>
+            <sparkle:shortVersionString>0.5.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>稳定性改进</h2>
+                <ul>
+                    <li>修复会话清理机制的潜在误删问题（Codex 审查）</li>
+                    <li>TTY 检测失败时安全降级，不再误删所有会话</li>
+                    <li>修复 tmux -CC 模式下的窗口跳转问题</li>
+                </ul>
+                <h2>代码质量</h2>
+                <ul>
+                    <li>统一 iTerm2 session ID 归一化处理</li>
+                    <li>Hook 脚本使用绝对路径（安全性提升）</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/gr-luo/vibe-island-updates/releases/download/v0.5.7/vibe-island-0.5.7.dmg"
+                sparkle:edSignature="mDm+rfFp17MIPhJXEwkFKZ5MqtyFg+NiqibRICa3e6qkHaXPBpoQOMTX4MjkHutH8CH6sRf7R3qPyD9sQPlDAw=="
+                length="2196213"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.5.6</title>
             <pubDate>Sun, 25 Jan 2026 13:49:49 +0800</pubDate>
             <sparkle:version>0.5.6</sparkle:version>
