@@ -7,6 +7,31 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.5.6</title>
+            <pubDate>Sun, 25 Jan 2026 13:49:49 +0800</pubDate>
+            <sparkle:version>0.5.6</sparkle:version>
+            <sparkle:shortVersionString>0.5.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>修复</h2>
+                <ul>
+                    <li>修复会话在对话过程中突然消失的问题</li>
+                </ul>
+                <h2>技术改进</h2>
+                <ul>
+                    <li>Hook 脚本通过祖先进程遍历获取 TTY（更可靠的会话检测）</li>
+                    <li>修复 tmux -CC 模式下 session ID 格式匹配问题</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/gr-luo/vibe-island-updates/releases/download/v0.5.6/vibe-island-0.5.6.dmg"
+                sparkle:edSignature="IGGy9wH1+v2m+M42YYyxwOWqhSapEyvzoM4hL4m4reDMvOzaAbKGPC64iYGiBRHfWATdZc0tfpPVJ53EeO03Aw=="
+                length="2192737"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.5.5</title>
             <pubDate>Sat, 25 Jan 2026 13:15:00 +0800</pubDate>
             <sparkle:version>0.5.5</sparkle:version>
