@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.6.0</title>
+            <pubDate>Tue, 27 Jan 2026 05:03:59 +0800</pubDate>
+            <sparkle:version>0.6.0</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Architecture Upgrade</h2>
+                <ul>
+                    <li>New boring.notch architecture for more efficient window management</li>
+                    <li>Perfect click-through support in multi-monitor environments</li>
+                </ul>
+                <h2>Experience Improvements</h2>
+                <ul>
+                    <li>Smoother expand/collapse animations</li>
+                    <li>Improved overall stability and responsiveness</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/edwluo/vibe-island-updates/releases/download/v0.6.0/vibe-island-0.6.0.dmg"
+                sparkle:edSignature="yxAL54IqC2bCDqS7YABYCb73Qj47sUIDguhqat9h16FyQqO52NuvsFrdsV+xiujwQEgwuqN1mc+T3UJecBfODQ=="
+                length="2277811"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.5.10</title>
             <pubDate>Mon, 26 Jan 2026 22:20:32 +0800</pubDate>
             <sparkle:version>0.5.10</sparkle:version>
