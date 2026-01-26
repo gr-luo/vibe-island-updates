@@ -2,8 +2,8 @@
 
 > macOS Notch 状态面板，为 Claude Code 打造的灵动岛体验
 
-[![Download](https://img.shields.io/badge/Download-v0.5.4-blue?style=for-the-badge&logo=apple)](https://github.com/gr-luo/vibe-island-updates/releases/download/v0.5.4/vibe-island-0.5.4.dmg)
-[![macOS](https://img.shields.io/badge/macOS-12.0+-black?style=flat-square&logo=apple)](https://github.com/gr-luo/vibe-island-updates/releases)
+[![Download](https://img.shields.io/badge/Download-v0.5.4-blue?style=for-the-badge&logo=apple)](https://github.com/edwluo/vibe-island-updates/releases/download/v0.5.4/vibe-island-0.5.4.dmg)
+[![macOS](https://img.shields.io/badge/macOS-12.0+-black?style=flat-square&logo=apple)](https://github.com/edwluo/vibe-island-updates/releases)
 [![Sparkle](https://img.shields.io/badge/Updates-Sparkle-orange?style=flat-square)](https://sparkle-project.org/)
 
 ## ✨ 功能
@@ -26,4 +26,4 @@ iTerm2 • Warp • Ghostty • VS Code • Terminal • Cursor • Alacritty �
 
 ---
 
-📦 [所有版本](https://github.com/gr-luo/vibe-island-updates/releases) · 🐛 [反馈问题](https://github.com/gr-luo/vibe-island/issues)
+📦 [所有版本](https://github.com/edwluo/vibe-island-updates/releases) · 🐛 [反馈问题](https://github.com/edwluo/vibe-island/issues)

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>Vibe Island Updates</title>
-        <link>https://gr-luo.github.io/vibe-island-updates/appcast.xml</link>
+        <link>https://edwluo.github.io/vibe-island-updates/appcast.xml</link>
         <description>Vibe Island - macOS Notch panel for Claude Code</description>
         <language>en</language>
 
@@ -29,7 +29,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/gr-luo/vibe-island-updates/releases/download/v0.5.9/vibe-island-0.5.9.dmg"
+                url="https://github.com/edwluo/vibe-island-updates/releases/download/v0.5.9/vibe-island-0.5.9.dmg"
                 sparkle:edSignature="qloWcuWMONBZq0oDa9IDlx5xFde6ftAh/BESXqXgSoWO91fQ+5Fg5mqnpmBvLljvigMEL27aAgm5HuLqHsF4DQ=="
                 length="2251312"
                 type="application/octet-stream"
@@ -55,7 +55,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/gr-luo/vibe-island-updates/releases/download/v0.5.8/vibe-island-0.5.8.dmg"
+                url="https://github.com/edwluo/vibe-island-updates/releases/download/v0.5.8/vibe-island-0.5.8.dmg"
                 sparkle:edSignature="e+nHUatV4tvITQopSdapxZIQcKetPxXYQeCyvbrlXrWy31OXYzbY5rsmwG4FaXspYGqDfgHqZpa/TwJGsg+6CQ=="
                 length="2220674"
                 type="application/octet-stream"
@@ -82,7 +82,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/gr-luo/vibe-island-updates/releases/download/v0.5.7/vibe-island-0.5.7.dmg"
+                url="https://github.com/edwluo/vibe-island-updates/releases/download/v0.5.7/vibe-island-0.5.7.dmg"
                 sparkle:edSignature="mDm+rfFp17MIPhJXEwkFKZ5MqtyFg+NiqibRICa3e6qkHaXPBpoQOMTX4MjkHutH8CH6sRf7R3qPyD9sQPlDAw=="
                 length="2196213"
                 type="application/octet-stream"
@@ -107,7 +107,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/gr-luo/vibe-island-updates/releases/download/v0.5.6/vibe-island-0.5.6.dmg"
+                url="https://github.com/edwluo/vibe-island-updates/releases/download/v0.5.6/vibe-island-0.5.6.dmg"
                 sparkle:edSignature="IGGy9wH1+v2m+M42YYyxwOWqhSapEyvzoM4hL4m4reDMvOzaAbKGPC64iYGiBRHfWATdZc0tfpPVJ53EeO03Aw=="
                 length="2192737"
                 type="application/octet-stream"
@@ -133,7 +133,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/gr-luo/vibe-island-updates/releases/download/v0.5.5/vibe-island-0.5.5.dmg"
+                url="https://github.com/edwluo/vibe-island-updates/releases/download/v0.5.5/vibe-island-0.5.5.dmg"
                 sparkle:edSignature="qVQeLJW7svG2jt9aCabTQWUetfhFaOzInc31s+sFrQOFB9qv3VD4Ak9C7Je6GiNFrbLCwKzgJSqnUfZWDisbAA=="
                 length="2192955"
                 type="application/octet-stream"
@@ -158,7 +158,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/gr-luo/vibe-island-updates/releases/download/v0.5.4/vibe-island-0.5.4.dmg"
+                url="https://github.com/edwluo/vibe-island-updates/releases/download/v0.5.4/vibe-island-0.5.4.dmg"
                 sparkle:edSignature="rwECsVvoiQpLDA3g0ccHemrpuWYux08MN6O6TBC3bDF57WsDYBuf2KQEBmfozAMC2XADfmuJbS0mu/iIr8mQBg=="
                 length="1704755"
                 type="application/octet-stream"
@@ -184,7 +184,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/gr-luo/vibe-island-updates/releases/download/v0.5.3/vibe-island-0.5.3.dmg"
+                url="https://github.com/edwluo/vibe-island-updates/releases/download/v0.5.3/vibe-island-0.5.3.dmg"
                 sparkle:edSignature="ELVDBLOzwQGtgzFu800pMmPkJqae4pyWOPBU99E4V/j8/di/k/ZbTxGLM9Tx3QaeL/L+hTcfIUt4Sh1wirt7BA=="
                 length="1655465"
                 type="application/octet-stream"
@@ -215,7 +215,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/gr-luo/vibe-island-updates/releases/download/v0.5.2/vibe-island-0.5.2.dmg"
+                url="https://github.com/edwluo/vibe-island-updates/releases/download/v0.5.2/vibe-island-0.5.2.dmg"
                 sparkle:edSignature="qiN8TM4028hDkN/RwKDdvhhoO4lSbrbkkme/e7RIhWsP1w5gOrjzqDpbghfEFzivRPhgK1Rm7659q0BRY0Z3Cg=="
                 length="1649431"
                 type="application/octet-stream"
@@ -252,7 +252,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/gr-luo/vibe-island-updates/releases/download/v0.5.1/vibe-island-0.5.1.zip"
+                url="https://github.com/edwluo/vibe-island-updates/releases/download/v0.5.1/vibe-island-0.5.1.zip"
                 sparkle:edSignature="DT/RVuvB5UvNt0IML93czaBGFhBlX4tqZ4OkWilHx9McTTzs4ulN6kYSNaM8dp7AEGOYFvyyZFSeLnhy1P9HDA=="
                 length="3128605"
                 type="application/octet-stream"
@@ -275,7 +275,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/gr-luo/vibe-island-updates/releases/download/v0.5.0/vibe-island-0.5.0.zip"
+                url="https://github.com/edwluo/vibe-island-updates/releases/download/v0.5.0/vibe-island-0.5.0.zip"
                 sparkle:edSignature="OnlY4au6h1W2pWKUMQGyBJnrzHRcnYm3xdPtPO6zqLuxYU/tEX2Hnw2+Q89idNPauH6CEH28WWLoFxNULfaoCg=="
                 length="3011998"
                 type="application/octet-stream"
