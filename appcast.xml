@@ -7,6 +7,32 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.6.3</title>
+            <pubDate>Tue, 28 Jan 2026 22:11:00 +0800</pubDate>
+            <sparkle:version>0.6.3</sparkle:version>
+            <sparkle:shortVersionString>0.6.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>New Features</h2>
+                <ul>
+                    <li>First-launch welcome page (Onboarding)</li>
+                    <li>New App icon</li>
+                </ul>
+                <h2>Improvements</h2>
+                <ul>
+                    <li>Auto mode now prefers main display</li>
+                    <li>Update check interval reduced to 6 hours</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/edwluo/vibe-island-updates/releases/download/v0.6.3/vibe-island-0.6.3.dmg"
+                sparkle:edSignature="8rkUHsxabOdfoNZKhN4y+S4Pq5uwFSqCU7SgSK6qiZxX9Fx5NWXnmtj2wCr5xr1L4nUhDT3KoJuDhCqUPHdpDQ=="
+                length="12316426"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.6.2</title>
             <pubDate>Tue, 28 Jan 2026 18:12:00 +0800</pubDate>
             <sparkle:version>0.6.2</sparkle:version>
