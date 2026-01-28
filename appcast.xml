@@ -7,6 +7,37 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.6.1</title>
+            <pubDate>Tue, 28 Jan 2026 06:53:00 +0800</pubDate>
+            <sparkle:version>0.6.1</sparkle:version>
+            <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Visual Improvements</h2>
+                <ul>
+                    <li>Pixel icon system redesign: clearer question mark icon, blinking cursor for waiting input</li>
+                    <li>Optimized Notch visual effects, aligned with Boring Notch parameters</li>
+                </ul>
+                <h2>Experience Enhancements</h2>
+                <ul>
+                    <li>Idle minimization optimization: stays expanded while working or waiting for approval</li>
+                    <li>Improved beta expiration reminder strategy</li>
+                </ul>
+                <h2>Stability</h2>
+                <ul>
+                    <li>Fixed potential bugs, improved app stability</li>
+                    <li>Migrated to SPM build, better crash log symbolication</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/edwluo/vibe-island-updates/releases/download/v0.6.1/vibe-island-0.6.1.dmg"
+                sparkle:edSignature="+pouAxe8USxJb3KnkKLgOEPffdIlMNpPfuuDpwbI8Rp3cl3eXeQVOHpr4QAXjJo8r/DfC1uLdL6gD808Pg2YDw=="
+                length="11319889"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.6.0</title>
             <pubDate>Tue, 27 Jan 2026 05:03:59 +0800</pubDate>
             <sparkle:version>0.6.0</sparkle:version>
