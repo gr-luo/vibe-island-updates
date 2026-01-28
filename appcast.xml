@@ -7,6 +7,26 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.6.5</title>
+            <pubDate>Wed, 29 Jan 2026 00:04:00 +0800</pubDate>
+            <sparkle:version>0.6.5</sparkle:version>
+            <sparkle:shortVersionString>0.6.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Improvements</h2>
+                <ul>
+                    <li>Optimized data collection stability</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/edwluo/vibe-island-updates/releases/download/v0.6.5/vibe-island-0.6.5.dmg"
+                sparkle:edSignature="8QImEzj05uDUXNf/QMPewyXwR74PDN+xGznB3PI56/lbG4rBCPvZuz+YRdCOLA58EuVD9n79h1qlW0hGXPN5AA=="
+                length="12318379"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.6.4</title>
             <pubDate>Tue, 28 Jan 2026 23:16:00 +0800</pubDate>
             <sparkle:version>0.6.4</sparkle:version>
