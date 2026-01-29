@@ -7,6 +7,26 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.6.7</title>
+            <pubDate>Wed, 29 Jan 2026 22:51:00 +0800</pubDate>
+            <sparkle:version>0.6.7</sparkle:version>
+            <sparkle:shortVersionString>0.6.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Improvements</h2>
+                <ul>
+                    <li>Optimized app signing process for better installation experience</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/edwluo/vibe-island-updates/releases/download/v0.6.7/vibe-island-0.6.7.dmg"
+                sparkle:edSignature="xnbcPGs8LpLdMBg0W2+rzmn+B1tbQJnyh2rKYSDBfpwyCP8KvgUzFURz7ccDTEt1wcWCu8ndin8ey0fhi0qVCg=="
+                length="12560107"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.6.6</title>
             <pubDate>Wed, 29 Jan 2026 18:22:00 +0800</pubDate>
             <sparkle:version>0.6.6</sparkle:version>
