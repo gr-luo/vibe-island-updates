@@ -7,6 +7,37 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.7.3</title>
+            <pubDate>Mon, 03 Feb 2026 16:10:00 +0800</pubDate>
+            <sparkle:version>0.7.3</sparkle:version>
+            <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>New Features</h2>
+                <ul>
+                    <li>Added CLI tool labels (Claude/Codex/Gemini) in session list</li>
+                </ul>
+                <h3>Fixes</h3>
+                <ul>
+                    <li>Fixed Gemini CLI sessions disappearing unexpectedly</li>
+                    <li>Fixed Gemini hook configuration not updating from older versions</li>
+                    <li>Improved Codex session cleanup reliability</li>
+                </ul>
+                <h3>Improvements</h3>
+                <ul>
+                    <li>Improved hook performance by reducing system calls</li>
+                    <li>Auto-collapse panel when all sessions are cleared</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/edwluo/vibe-island-updates/releases/download/v0.7.3/vibe-island-0.7.3.dmg"
+                sparkle:edSignature="OmdJkaQowKJg9VzErp+ERl5tU69jJh3ZKzwPl5D4EU3qVFQbvBfod3RoZzC5IsDbqK6Ja7CO0c+QbLcxjTNAAA=="
+                length="12695179"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.7.2</title>
             <pubDate>Sun, 02 Feb 2026 06:50:00 +0800</pubDate>
             <sparkle:version>0.7.2</sparkle:version>
