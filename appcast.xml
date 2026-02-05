@@ -7,6 +7,40 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.7.4</title>
+            <pubDate>Wed, 05 Feb 2026 22:10:00 +0800</pubDate>
+            <sparkle:version>0.7.4</sparkle:version>
+            <sparkle:shortVersionString>0.7.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>New Features</h2>
+                <ul>
+                    <li>Allow All option for permission approval (approve once for similar requests)</li>
+                    <li>ExitPlanMode GUI approval with 4 options</li>
+                    <li>Yolo mode button for quick bypass</li>
+                    <li>Session deduplication for restored sessions</li>
+                </ul>
+                <h3>Improvements</h3>
+                <ul>
+                    <li>Permission approval UI stability (event-driven architecture)</li>
+                    <li>Better tmux -CC integration</li>
+                    <li>Improved restored sessions handling</li>
+                </ul>
+                <h3>Fixes</h3>
+                <ul>
+                    <li>Fixed ExitPlanMode UI changing to regular permission UI</li>
+                    <li>Fixed permission approval responsiveness issues</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/edwluo/vibe-island-updates/releases/download/v0.7.4/vibe-island-0.7.4.dmg"
+                sparkle:edSignature="pB/a4nLNsbQv1ccDnaSA+InOvve8npHrOOa+r8SPk5/DKr0ngtdKq/VNzEPkNs9eT0irjWIrCohqdZj0JqTBCw=="
+                length="12870750"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.7.3</title>
             <pubDate>Mon, 03 Feb 2026 16:10:00 +0800</pubDate>
             <sparkle:version>0.7.3</sparkle:version>
