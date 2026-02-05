@@ -7,6 +7,36 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.7.5</title>
+            <pubDate>Thu, 06 Feb 2026 07:20:00 +0800</pubDate>
+            <sparkle:version>0.7.5</sparkle:version>
+            <sparkle:shortVersionString>0.7.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>New Features</h2>
+                <ul>
+                    <li>Added pending approval badge in collapsed state (bell icon shows count)</li>
+                </ul>
+                <h3>Improvements</h3>
+                <ul>
+                    <li>Click outside panel now always collapses it (no longer blocked by pending approvals)</li>
+                    <li>Task completion notification always shows (even with pending approvals in other sessions)</li>
+                    <li>Permission approval timeout extended to 2 hours</li>
+                </ul>
+                <h3>Fixes</h3>
+                <ul>
+                    <li>Fixed panel unexpectedly expanding when working in other sessions</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/edwluo/vibe-island-updates/releases/download/v0.7.5/vibe-island-0.7.5.dmg"
+                sparkle:edSignature="tUIa0b+dkA+2PB4DQCC08y0lRglrp9Wn7SVOggMUoOq3Wz8lDO8pwGeody90kUyI8v8bLJYY5k+mWDd8CH8rCw=="
+                length="12834004"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.7.4</title>
             <pubDate>Wed, 05 Feb 2026 22:10:00 +0800</pubDate>
             <sparkle:version>0.7.4</sparkle:version>
