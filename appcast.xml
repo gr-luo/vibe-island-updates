@@ -7,6 +7,38 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.7.6</title>
+            <pubDate>Thu, 12 Feb 2026 19:16:00 +0800</pubDate>
+            <sparkle:version>0.7.6</sparkle:version>
+            <sparkle:shortVersionString>0.7.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Improvements</h2>
+                <ul>
+                    <li>Permission approval now shows Claude Code's native smart suggestions</li>
+                    <li>Better session text detection with queued message support</li>
+                    <li>Simplified settings menu</li>
+                    <li>Redesigned DMG installer with retro CRT terminal aesthetic</li>
+                </ul>
+                <h2>Fixes</h2>
+                <ul>
+                    <li>Fixed Notch panel disappearing when external display is hot-plugged</li>
+                    <li>Fixed unintentionally launching iTerm2 when it's not running</li>
+                    <li>Fixed third-party hooks being accidentally removed during settings update</li>
+                    <li>Fixed duplicate Codex sessions</li>
+                    <li>Improved session stability and timeout handling</li>
+                    <li>Hidden scrollbar in expanded panel</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://dl.vibeisland.app/vibe-island-0.7.6.dmg"
+                sparkle:edSignature="NFeIjmHIUZiQQWkLQvxIffAoTw6BQrIsrvLL/DVpfgfY07th1Rb9tf3kqe/wZ898AzpwThjhXUNujUzm5O4kBg=="
+                length="10488825"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.7.5</title>
             <pubDate>Thu, 06 Feb 2026 07:20:00 +0800</pubDate>
             <sparkle:version>0.7.5</sparkle:version>
