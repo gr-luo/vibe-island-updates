@@ -7,6 +7,26 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.7.8</title>
+            <pubDate>Sun, 15 Feb 2026 23:47:00 +0800</pubDate>
+            <sparkle:version>0.7.8</sparkle:version>
+            <sparkle:shortVersionString>0.7.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Fixes</h2>
+                <ul>
+                    <li>Fixed panel state getting stuck after pressing Esc to cancel permission requests or questions</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://dl.vibeisland.app/vibe-island-0.7.8.dmg"
+                sparkle:edSignature="f6IXw4CiLJ7dPDobEZFxxH+ktqK2hKgNexOVMbMuMkRAk3J2+UCbSQMxdjOrnityXe5lKWohBtgLPdEefIB6Aw=="
+                length="10511687"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.7.7</title>
             <pubDate>Sun, 15 Feb 2026 21:34:00 +0800</pubDate>
             <sparkle:version>0.7.7</sparkle:version>
