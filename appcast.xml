@@ -7,6 +7,33 @@
         <language>en</language>
 
         <item>
+            <title>Version 0.7.7</title>
+            <pubDate>Sun, 15 Feb 2026 21:34:00 +0800</pubDate>
+            <sparkle:version>0.7.7</sparkle:version>
+            <sparkle:shortVersionString>0.7.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Improvements</h2>
+                <ul>
+                    <li>Significantly faster hook response (10x performance improvement)</li>
+                    <li>Panel auto-collapses 5s after task completion</li>
+                    <li>Auto-expanded panel now only shows the triggered session, reducing visual clutter</li>
+                </ul>
+                <h2>Fixes</h2>
+                <ul>
+                    <li>Fixed unnecessary panel expansion on subtask completion</li>
+                    <li>Improved session stability</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://dl.vibeisland.app/vibe-island-0.7.7.dmg"
+                sparkle:edSignature="lKt6cgJRdRM6T8OOxzrUjYL/8GK669RODzQZO6m1ry40xt7sRgnLiKRQLNTQOzeoRHLv6T7YUibKUYZi8iHmBQ=="
+                length="10510618"
+                type="application/octet-stream"
+            />
+        </item>
+
+        <item>
             <title>Version 0.7.6</title>
             <pubDate>Thu, 12 Feb 2026 19:16:00 +0800</pubDate>
             <sparkle:version>0.7.6</sparkle:version>
